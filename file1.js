@@ -1,3 +1,3 @@
-hello world
-hello naija
-test me
+hello world;
+hello naija;
+test me;
