@@ -18,7 +18,7 @@
         <div class="py-4 text-left px-6">
           <!--Title-->
           <div class="flex justify-between items-center pb-4">
-            <p class="text-2xl font-bold">Your Account</p>
+            <p class="text-xs sm:text-xl font-bold">Your Account</p>
             <!-- Modal Close Button -->
             <!--eslint-disable-next-line vuejs-accessibility/click-events-have-key-events-->
             <div class="modal-close cursor-pointer z-50" @click.prevent="toggleAuthModal">

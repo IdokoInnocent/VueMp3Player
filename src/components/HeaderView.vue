@@ -14,7 +14,7 @@
             </li>
           <li v-if="!userLoggedIn">
             <!--eslint-disable-next-line max-len-->
-            <a class="px-2 text-white  text-xs sm:text-2xl" href="#" @click.prevent="toggleAuthModal">Login / Register</a>
+            <a class="px-2 text-white  text-xs sm:text-xl" href="#" @click.prevent="toggleAuthModal">Login / Register</a>
           </li>
 
           <!-- There is one problem. We can't use the v-else directive multiple times except we wrap it in a template tag -->
